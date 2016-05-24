@@ -28,7 +28,7 @@ node -v
 
 3. Install TypeScript ( sudo npm install -g typescript )
 
-4. Create project folder and add the files specified in : https://angular.io/docs/ts/latest/quickstart.html 
+4. Create folder project and add files from this repository
  
 5. In package.json change: from "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ", to "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
 
